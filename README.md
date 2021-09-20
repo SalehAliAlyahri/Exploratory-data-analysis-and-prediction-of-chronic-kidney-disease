@@ -1,4 +1,6 @@
 # Exploratory-data-analysis-and-prediction-of-chronic-kidney-disease
+![ckd_](https://user-images.githubusercontent.com/70725011/133984112-830001e3-3434-4e88-a99f-3177d6991c40.jpg)
+
 In this project, I focused to analyze and visualize the dataset using python language to understand what the data looks like, show the relationship between the data, and choose the best way to clean the dataset. Also, i applied a different machine learning algorithm to predict the test data set.
 
 # Description of dataset
